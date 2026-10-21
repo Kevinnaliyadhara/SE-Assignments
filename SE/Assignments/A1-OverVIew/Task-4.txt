@@ -1,0 +1,33 @@
+Ans-1:
+
+1. Requirement Analysis: Collect and understand the user's needs and project requirements.
+2. Design: Plan the software structure, user interface, database, and architecture.
+3. Development: Write code to build the software according to the design.
+4. Testing: Check the software for bugs and verify that it meets requirements.
+5. Deployment: Release the software so users can start using it.
+6. Maintenance: Fix bugs, improve performance, and add updates after release.
+
+Ans-2:
+
+           Agile Model	                                                           Waterfall Model
+Development happens in small, repeated cycles.	              Development follows a fixed sequence of phases.
+Requirements can change during development.	              Requirements are generally defined before development begins.
+Testing and feedback happen frequently.	                      Testing usually occurs after the development phase.
+
+Ans-3:
+
+1. Product Owner (PO): Defines product goals and prioritizes the product backlog.
+2. Scrum Master: Helps the team follow Scrum practices and removes obstacles.
+3. Developers (Development Team): Build, test, and deliver a usable product increment.
+
+Ans-4: 
+
+A Sprint is a fixed period during which a Scrum team works to complete a specific set of tasks and produce a usable product increment.
+Typical duration: 1 to 4 weeks, commonly 2 weeks.
+
+Ans-5: 
+
+- To Do: Tasks that are ready to be started but have not yet begun.
+- In Progress: Tasks that the team is currently working on.
+- Done: Tasks that have been completed and meet the required criteria.
+- Backlog: A list of planned features, improvements, and tasks that may be worked on in the future.

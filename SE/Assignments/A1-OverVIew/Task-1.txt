@@ -1,0 +1,40 @@
+Ans-1:
+
+1.Developer: Writes code to create websites, applications, and software.
+2.Tester: Tests software to find bugs and errors.
+3.Designer: Designs the user interface (UI) and user experience (UX) of applications.
+4.Data Analyst: Analyzes data to find useful information and help businesses make decisions.
+5.AI Engineer: Develops artificial intelligence systems such as chatbots and recommendation systems.
+
+Ans-2:
+
+Product Companies
+1. Google: Develops products like Google Search, Gmail, and Google Maps.
+2. Microsoft: Develops Windows, Microsoft Office, and other software products.
+3. Adobe: Develops software like Photoshop and Illustrator.
+Service Companies
+1. TCS (Tata Consultancy Services): Provides IT consulting and software development services to clients.
+2. Infosys: Develops and maintains software systems for businesses.
+3. Wipro: Provides IT services, cloud solutions, and business technology consulting.
+
+Ans-3:
+
+Term	    Full Form	                                                    Use
+GitHub	No official full form	                Stores and manages code and supports collaboration between developers and also handel for versions.
+Slack	Not an acronym	                        Used for team communication and file sharing.
+Jira	No official full form	                Used to track tasks, bugs, and projects.
+IDE	Integrated Development Environment	Used to write, run, and debug code.
+API	Application Programming Interface	Allows different software applications to communicate with each other.
+
+Ans-4:
+
+1.Java: Used to develop enterprise applications and backend systems.
+2.Python: Used in AI, machine learning, and data analysis.
+3.C:Used in operating systems and embedded systems.
+4.JavaScript: Used to make interactive websites.
+5.C++: Used in game development and high-performance software.
+
+Ans-5:
+
+1.A developer writes code and builds software applications according to requirements.
+2.A tester checks the software to find bugs and verifies that it works correctly.

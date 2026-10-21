@@ -1,0 +1,38 @@
+Ans-1:
+
+1. HTTP (Hypertext Transfer Protocol): Used to transfer web pages and other data between a browser and a web server.
+2. HTTPS (Hypertext Transfer Protocol Secure): Used to transfer data securely between a browser and a server through encryption.
+3. FTP (File Transfer Protocol): Used to transfer files between computers over a network.
+4. SMTP (Simple Mail Transfer Protocol): Used to send emails from a client or mail server to another mail server.
+
+Ans-2: 
+
+IPv4 uses a 32-bit address written in four decimal numbers, such as 192.168.1.1.
+IPv6 uses a 128-bit address written in hexadecimal groups, such as 2001:db8::1, and supports a much larger number of unique addresses.
+
+
+Ans-3: 
+
+nslookup is a command used to find the IP address associated with a domain name.
+Command:
+nslookup google.com
+
+Example output may contain IPv4 addresses such as 142.250.183.14. The exact address can vary depending on your network, DNS server, and location.
+To complete this task, run the command in your own system's Command Prompt and write down the IP address displayed in your output.
+
+Ans-4:
+
+1. 200 – OK: The request was successful.
+2. 301 – Moved Permanently: The requested page has permanently moved to another URL.
+3. 404 – Not Found: The requested page or resource could not be found.
+4. 500 – Internal Server Error: The server encountered an unexpected problem.
+5. 403 – Forbidden: The server understood the request but refused access.
+
+Ans-5:
+
+DNS (Domain Name System) converts human-readable domain names into IP addresses so computers can locate servers.
+- Root (.): The top level of the DNS hierarchy.
+- TLD (.com): The Top-Level Domain, which comes after the final dot in a domain name.
+- Domain (google.com): The registered domain name that identifies Google's internet presence.
+- Subdomain (www): A label before the main domain, making www.google.com a subdomain of google.com.
+Example: When you enter www.google.com in your browser, DNS helps find the IP address associated with that hostname, allowing the browser to connect to the correct server.

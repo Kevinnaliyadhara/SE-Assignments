@@ -1,0 +1,26 @@
+Ans-1:
+
+1.UI (User Interface): It is the part of software through which users interact with the application.
+2.Business Logic: It contains the rules and operations that process user requests and data.
+3.Database: It stores and manages application data for future use.
+
+Ans-2:
+
+1.Client: A client is a device or application that sends a request for information or services.
+2.Server: A server is a computer or system that receives requests, processes them, and sends responses.
+
+Ans-3:
+
+Feature	        Desktop Apps	                                Web Apps	                                Mobile Apps
+Platform	Run on computers or laptops.	                Run through a web browser.	                Run on smartphones or tablets.
+Installation	Usually need to be installed on a computer.	Usually do not require separate installation.	Usually installed from an app store.
+Examples:
+- Desktop app: Microsoft Word
+- Web app: Google Docs in a browser
+- Mobile app: WhatsApp on a smartphone
+
+Ans-4:
+
+1. MySQL: SQL database used to store data in tables.
+2. PostgreSQL: SQL database used for structured data and complex queries.
+3. MongoDB: NoSQL database that stores data in flexible, document-based formats.
